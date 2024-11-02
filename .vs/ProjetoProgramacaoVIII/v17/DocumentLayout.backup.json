@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedru\\source\\repos\\ProjetoProgramacaoVIII\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42A06143-9EED-45E4-916D-5EAB49CC13D1}|ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII.csproj|c:\\users\\pedru\\source\\repos\\projetoprogramacaoviii\\projetoprogramacaoviii\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A06143-9EED-45E4-916D-5EAB49CC13D1}|ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII.csproj|solutionrelative:projetoprogramacaoviii\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A06143-9EED-45E4-916D-5EAB49CC13D1}|ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII.csproj|c:\\users\\pedru\\source\\repos\\projetoprogramacaoviii\\projetoprogramacaoviii\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A06143-9EED-45E4-916D-5EAB49CC13D1}|ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII.csproj|solutionrelative:projetoprogramacaoviii\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A06143-9EED-45E4-916D-5EAB49CC13D1}|ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII.csproj|C:\\Users\\pedru\\source\\repos\\ProjetoProgramacaoVIII\\projetoprogramacaoviii\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A06143-9EED-45E4-916D-5EAB49CC13D1}|ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII.csproj|solutionrelative:projetoprogramacaoviii\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A06143-9EED-45E4-916D-5EAB49CC13D1}|ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII.csproj|C:\\Users\\pedru\\source\\repos\\ProjetoProgramacaoVIII\\projetoprogramacaoviii\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A06143-9EED-45E4-916D-5EAB49CC13D1}|ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII.csproj|solutionrelative:projetoprogramacaoviii\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A06143-9EED-45E4-916D-5EAB49CC13D1}|ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII.csproj|c:\\users\\pedru\\source\\repos\\projetoprogramacaoviii\\projetoprogramacaoviii\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A06143-9EED-45E4-916D-5EAB49CC13D1}|ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII.csproj|solutionrelative:projetoprogramacaoviii\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A06143-9EED-45E4-916D-5EAB49CC13D1}|ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII.csproj|c:\\users\\pedru\\source\\repos\\projetoprogramacaoviii\\projetoprogramacaoviii\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A06143-9EED-45E4-916D-5EAB49CC13D1}|ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII.csproj|solutionrelative:projetoprogramacaoviii\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A06143-9EED-45E4-916D-5EAB49CC13D1}|ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII.csproj|C:\\Users\\pedru\\source\\repos\\ProjetoProgramacaoVIII\\projetoprogramacaoviii\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A06143-9EED-45E4-916D-5EAB49CC13D1}|ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII.csproj|solutionrelative:projetoprogramacaoviii\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pedru\\AppData\\Local\\Temp\\pt0grza1..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pedru\\AppData\\Local\\Temp\\pt0grza1..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pedru\\AppData\\Local\\Temp\\pt0grza1..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "C:\\Users\\pedru\\source\\repos\\ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII\\Salary.cs",
+              "RelativeDocumentMoniker": "ProjetoProgramacaoVIII\\Salary.cs",
+              "ToolTip": "C:\\Users\\pedru\\source\\repos\\ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII\\Salary.cs",
+              "RelativeToolTip": "ProjetoProgramacaoVIII\\Salary.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAgwIAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:46:40.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedru\\source\\repos\\ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII\\Dashboard.cs",
+              "RelativeDocumentMoniker": "ProjetoProgramacaoVIII\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\pedru\\source\\repos\\ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII\\Dashboard.cs [Projeto]",
+              "RelativeToolTip": "ProjetoProgramacaoVIII\\Dashboard.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:25:08.326Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Salary.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedru\\source\\repos\\ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII\\Salary.cs",
+              "RelativeDocumentMoniker": "ProjetoProgramacaoVIII\\Salary.cs",
+              "ToolTip": "C:\\Users\\pedru\\source\\repos\\ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII\\Salary.cs [Projeto]",
+              "RelativeToolTip": "ProjetoProgramacaoVIII\\Salary.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:46:08.907Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedru\\source\\repos\\ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII\\MainForm.cs",
+              "RelativeDocumentMoniker": "ProjetoProgramacaoVIII\\MainForm.cs",
+              "ToolTip": "C:\\Users\\pedru\\source\\repos\\ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII\\MainForm.cs [Projeto]",
+              "RelativeToolTip": "ProjetoProgramacaoVIII\\MainForm.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:21:26.109Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddEmployee.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedru\\source\\repos\\ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "ProjetoProgramacaoVIII\\AddEmployee.cs",
+              "ToolTip": "C:\\Users\\pedru\\source\\repos\\ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII\\AddEmployee.cs [Projeto]",
+              "RelativeToolTip": "ProjetoProgramacaoVIII\\AddEmployee.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:40:01.049Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedru\\source\\repos\\ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjetoProgramacaoVIII\\Form1.cs",
+              "ToolTip": "C:\\Users\\pedru\\source\\repos\\ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII\\Form1.cs [Projeto]*",
+              "RelativeToolTip": "ProjetoProgramacaoVIII\\Form1.cs [Projeto]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:21:26.139Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterForm.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedru\\source\\repos\\ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "ProjetoProgramacaoVIII\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\pedru\\source\\repos\\ProjetoProgramacaoVIII\\ProjetoProgramacaoVIII\\RegisterForm.cs [Projeto]*",
+              "RelativeToolTip": "ProjetoProgramacaoVIII\\RegisterForm.cs [Projeto]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:21:19.077Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\pedru\\AppData\\Local\\Temp\\pt0grza1..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\pt0grza1..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-01T21:59:23.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
